@@ -6,6 +6,7 @@ including preprocessing, outlier removal, skewness correction, feature engineeri
 hyperparameter tuning, and evaluation.
 
 # Preprocessing Summary
+
 - Handled missing values with forward-fill.
 - Removed outliers using IQR method.
 - Applied log transformation to reduce skewness.
@@ -14,12 +15,19 @@ hyperparameter tuning, and evaluation.
 - Scaled features using StandardScaler.
 
 # Training Models
+
 Linear Regression 
+
 Random Forest 
+
 Gradient Boosting 
+
 Neural Network 
 
 # Model Evaluation Metrics
+
 RMSE
+
 MAE
+
 R2 Score
