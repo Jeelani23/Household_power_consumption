@@ -16,18 +16,18 @@ hyperparameter tuning, and evaluation.
 
 # Training Models
 
-Linear Regression 
+- Linear Regression 
 
-Random Forest 
+- Random Forest 
 
-Gradient Boosting 
+- Gradient Boosting 
 
-Neural Network 
+- Neural Network 
 
 # Model Evaluation Metrics
 
-RMSE
+- RMSE
 
-MAE
+- MAE
 
-R2 Score
+- R2 Score
